@@ -25,8 +25,12 @@ class SPIDER : public Device {
 		bool prop_write(int index, char *value);
 		// method
 		char* random();
-        void forward(void);
+        	void forward(void);
 		void backward(void);
+		void turn_left(void);
+		void turn_right(void);
+		void dance(void);
+		void greeting(void);
 };
 
 #endif
