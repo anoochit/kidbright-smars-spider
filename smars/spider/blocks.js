@@ -29,7 +29,7 @@ Blockly.Blocks['spider.backward'] = {
     }
 };
 
-Blockly.Blocks['spider.trun_left'] = {
+Blockly.Blocks['spider.turn_left'] = {
     init: function() {
         this.appendDummyInput()
             .appendField(Blockly.Msg.SPIDER_TURN_LEFT_TITLE);
@@ -44,7 +44,7 @@ Blockly.Blocks['spider.trun_left'] = {
     }
 };
 
-Blockly.Blocks['spider.trun_right'] = {
+Blockly.Blocks['spider.turn_right'] = {
     init: function() {
         this.appendDummyInput()
             .appendField(Blockly.Msg.SPIDER_TURN_RIGHT_TITLE);
