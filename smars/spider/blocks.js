@@ -73,3 +73,18 @@ Blockly.Blocks['spider.dance'] = {
         this.setHelpUrl(Blockly.Msg.SPIDER_DANCE_HELPURL);
     }
 };
+
+Blockly.Blocks['spider.greeting'] = {
+    init: function() {
+        this.appendDummyInput()
+            .appendField(Blockly.Msg.SPIDER_GREETING_TITLE);
+        this.appendValueInput("STEP")
+            .setCheck("Number");
+        this.setInputsInline(true);
+        this.setPreviousStatement(true, null);
+        this.setNextStatement(true, null);
+        this.setColour(160);
+        this.setTooltip(Blockly.Msg.SPIDER_GREETING_TOOLTIP);
+        this.setHelpUrl(Blockly.Msg.SPIDER_GREETING_HELPURL);
+    }
+};
