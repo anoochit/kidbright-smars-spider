@@ -58,3 +58,14 @@ void SPIDER::forward(void) {
 void SPIDER::backward(void) {
 }
 
+void SPIDER::turn_left(void) {
+}
+
+void SPIDER::turn_right(void) {
+}
+
+void SPIDER::dance(void) {
+}
+
+void SPIDER::greeting(void) {
+}
