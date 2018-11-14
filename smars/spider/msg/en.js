@@ -13,3 +13,11 @@ Blockly.Msg.SPIDER_TURN_LEFT_HELPURL="";
 Blockly.Msg.SPIDER_TURN_RIGHT_TITLE="Turn Right";
 Blockly.Msg.SPIDER_TURN_RIGHT_TOOLTIP="Turn Right";
 Blockly.Msg.SPIDER_TURN_RIGHT_HELPURL="";
+
+Blockly.Msg.SPIDER_DANCE_TITLE="Dance";
+Blockly.Msg.SPIDER_DANCE_TOOLTIP="Dance";
+Blockly.Msg.SPIDER_DANCE_HELPURL="";
+
+Blockly.Msg.SPIDER_GREETING_TITLE="Greeting";
+Blockly.Msg.SPIDER_GREETING_TOOLTIP="Greeting";
+Blockly.Msg.SPIDER_GREETING_HELPURL="";
