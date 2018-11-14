@@ -1,1 +1,1 @@
-# kiddright-smars-spider
+# kidbright-smars-spider
